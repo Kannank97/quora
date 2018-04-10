@@ -1,6 +1,8 @@
 # quora
 Quora Question pairs - Kaggle - tcs
 The problem is to find the question pairs which are of same meaning from a given set of question pairs as input
+You can find details about this competition from
+https://www.kaggle.com/c/quora-question-pairs/data
 
 # input
 The dataset for training must be given as train.csv

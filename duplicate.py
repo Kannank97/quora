@@ -49,14 +49,3 @@ sub = pd.DataFrame()
 sub['test_id'] = test_frame['test_id']
 sub['is_duplicate'] = test_frame['is_duplicate']
 sub.to_csv('least_square_submission.csv', index=False)
-
-
-
-
-
-
-
-
-
-
-

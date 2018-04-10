@@ -4,6 +4,13 @@ The problem is to find the question pairs which are of same meaning from a given
 You can find details about this competition from
 https://www.kaggle.com/c/quora-question-pairs/data
 
+# requirements
+  python 2.7 or above
+  # python packages
+    pandas
+    numpy
+    nltk
+
 # input
 The dataset for training must be given as train.csv
 the dataset for testing must be given as test.csv
